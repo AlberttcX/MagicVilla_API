@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ventoy\\Documents\\Repositorio Code\\Repositorio Code.csproj": {}
+    "C:\\Users\\Ventoy\\Documents\\Repositorio Code\\MagicVilla_API\\Repositorio Code.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ventoy\\Documents\\Repositorio Code\\Repositorio Code.csproj": {
+    "C:\\Users\\Ventoy\\Documents\\Repositorio Code\\MagicVilla_API\\Repositorio Code.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ventoy\\Documents\\Repositorio Code\\Repositorio Code.csproj",
+        "projectUniqueName": "C:\\Users\\Ventoy\\Documents\\Repositorio Code\\MagicVilla_API\\Repositorio Code.csproj",
         "projectName": "Repositorio Code",
-        "projectPath": "C:\\Users\\Ventoy\\Documents\\Repositorio Code\\Repositorio Code.csproj",
+        "projectPath": "C:\\Users\\Ventoy\\Documents\\Repositorio Code\\MagicVilla_API\\Repositorio Code.csproj",
         "packagesPath": "C:\\Users\\Ventoy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ventoy\\Documents\\Repositorio Code\\obj\\",
+        "outputPath": "C:\\Users\\Ventoy\\Documents\\Repositorio Code\\MagicVilla_API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ventoy\\AppData\\Roaming\\NuGet\\NuGet.Config",
